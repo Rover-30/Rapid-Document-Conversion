@@ -1,5 +1,5 @@
-# RapidDocumentConversion
-Group Project by Yasin, Merin, Celestie
+# Rapid-Document-Conversion
+Group Project by Toshak, Sushant, Waseem
 
 In our system the users should be able to upload any WORD document and it will get converted to a PDF document in a single click.​
 
